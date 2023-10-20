@@ -10,6 +10,10 @@ Hey there, my name is Ananya
     I am a sophomore majoring in computer science at Rice University
 </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-ananyarao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/ananya-rao-281821246/)
+[![Website Badge](https://img.shields.io/badge/-ananyarao10.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://ananyarao10.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-ananya.rao-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:ananya.rao@gmail.com)
+
  # about me:
  
 <p>
